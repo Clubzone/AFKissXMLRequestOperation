@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
 	s.authors = { 'Mattt Thompson' => 'm@mattt.me' }
 	s.license = 'MIT'
 	s.summary = 'An extension for AFNetworking that provides an interface to parse XML using KissXML.'
-	s.source = { :git => 'https://github.com/Clubzone/AFKissXMLRequestOperation.git', :tag => '0.0.4' }
+	s.source = { :git => 'https://github.com/Clubzone/AFKissXMLRequestOperation.git', :tag => '0.0.4a' }
 	s.source_files = 'AFKissXMLRequestOperation.{h,m}', 'AFKissXMLResponseSerializer.{h,m}'
 	s.dependency 'AFNetworking', '~> 2'
 	s.dependency 'KissXML', '~> 5.0'
